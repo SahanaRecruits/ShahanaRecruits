@@ -65,6 +65,39 @@ Mürəkkəb arxitekturalı layihələrində iştirak edəcək, yüksək texniki 
 
 ### 📩 Müraciət üçün:
 CV-nizi **cv@hrcell.az** ünvanına göndərə bilərsiniz. **Əmək haqqı** gözləntinizi qeyd etməyi unutmayın.
+---
+*Vakansiyanı uyğun hesab etdiyiniz dostlarınızla paylaşmağınız xahiş olunur!*
+
+
+# 🐘 Aparıcı PHP Proqramçı (Laravel)
+
+Yüksək yüklü veb tətbiqlərin inkişafı və optimizasiyası üzrə təcrübəli **Aparıcı PHP Developer** tələb olunur.
+
+### 🛠️ Texniki Tələblər
+* **PHP:** Minimum **5 il** praktik iş təcrübəsi.
+* **Framework:** Laravel üzrə minimum **4 il** dərin biliklər.
+* **Databases:** MySQL və PostgreSQL ilə işləmə, sorğuların optimizasiyası.
+* **Architechture:** OOP və MVC prinsipləri haqqında dərin biliklər.
+* **Version Control:** Git (GitHub/GitLab) ilə peşəkar iş təcrübəsi.
+* **Veb Servislər:** REST və SOAP API-lərlə inteqrasiya bacarığı.
+
+### 📋 Əsas Öhdəliklər
+* **Development:** PHP və Laravel framework-ü vasitəsilə yeni veb tətbiqlərin sıfırdan qurulması və inkişafı.
+* **Optimization:** Mövcud layihələrin texniki dəstəyi, kodun optimallaşdırılması və refaktorinqi.
+* **Collaboration:** Frontend komandası ilə sıx əməkdaşlıq və layihələrin vaxtında təhvil verilməsi.
+* **Documentation:** Yazılan kodun sənədləşdirilməsi və texniki sənədlərin hazırlanması.
+
+### 🌟 Üstünlük Verilir
+* Laravel ilə hazırlanmış ən azı 2 real layihənin təqdim edilməsi.
+* Mürəkkəb alqoritmlərin qurulması və optimallaşdırılması bacarığı.
+* Mövcud və böyük kod bazasında (legacy code) işləmə təcrübəsi.
+
+### 👤 Davranış Bacarıqları
+* Operativlik, məsuliyyətlilik və komanda ruhu.
+* Yenilikçi yanaşma və texnoloji inkişafa meyillilik.
+
+### 📩 Müraciət üçün:
+CV-nizi **cv@hrcell.az** ünvanına göndərə bilərsiniz. **Əmək haqqı** gözləntinizi qeyd etməyi unutmayın.
 
 ---
 *Vakansiyanı uyğun hesab etdiyiniz dostlarınızla paylaşmağınız xahiş olunur!*
