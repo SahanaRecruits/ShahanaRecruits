@@ -31,3 +31,40 @@ CV-nizi **cv@hrcell.az** ünvanına göndərə bilərsiniz.
 
 ---
 *Vakansiyanı uyğun hesab etdiyiniz dostlarınızla paylaşmağınız xahiş olunur!*
+
+
+# 🚀 Senior Backend Developer (.NET)
+
+Mürəkkəb arxitekturalı layihələrində iştirak edəcək, yüksək texniki biliklərə malik **Senior .NET Developer** axtarırıq.
+
+### 🎯 Əsas Öhdəliklər
+* **Development:** C# (.NET Core) ilə yüksək yüklü backend sistemlərinin qurulması.
+* **Code Quality:** Kod keyfiyyətinin qorunması və "Code Review" proseslərində aktiv iştirak.
+* **Problem Solving:** Mövcut xətaların analizi, sistemin optimallaşdırılması və təkmilləşdirilməsi.
+* **Collaboration:** Analitiklər, layihə rəhbərləri və digər proqramçılarla sıx əməkdaşlıq.
+* **Documentation:** Hazırlanan sistemlərin texniki sənədləşdirilməsi.
+
+### 🛠️ Texniki Tələblər
+* **Təcrübə:** C# (.NET Core / Framework) sahəsində minimum **5 il** praktik təcrübə.
+* **Databases:** SQL Server, PostgreSQL, MongoDB və Redis ilə işləmə bacarığı.
+* **Architecture:** OOP, Design Patterns (SOLID), Clean & Hexagonal Architecture bilikləri.
+* **Integrations:** REST API, gRPC və digər xarici sistemlərlə inteqrasiya.
+* **DevOps & Cloud:** Docker, Kubernetes və CI/CD prosesləri ilə iş bacarığı.
+* **Messaging:** RabbitMQ və ya Kafka ilə asinxron işləmə təcrübəsi.
+* **Testing:** TDD və BDD yanaşmaları (NUnit, xUnit).
+* **Security:** JWT, OAuth2 və OpenID Connect protokolları üzrə biliklər.
+
+### 🌟 Üstünlük Verilir
+* SignalR ilə real-time sistemlərin qurulması təcrübəsi.
+* Monitoring alətləri (Prometheus, Grafana, Application Insights) ilə iş bacarığı.
+
+### 👤 Davranış Bacarıqları
+* Analitik düşünmə və sürətli problem həll etmə.
+* Agile mindset və dəyişən mühitə çevik uyğunlaşma.
+* Effektli komanda işi.
+
+### 📩 Müraciət üçün:
+CV-nizi **cv@hrcell.az** ünvanına göndərə bilərsiniz. **Əmək haqqı** gözləntinizi qeyd etməyi unutmayın.
+
+---
+*Vakansiyanı uyğun hesab etdiyiniz dostlarınızla paylaşmağınız xahiş olunur!*
