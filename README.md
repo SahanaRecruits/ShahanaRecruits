@@ -1,28 +1,33 @@
-# ShahanaRecruits  🚀 Biz İşçi Axtarırıq! (Hiring Now)
+# ShahanaRecruits  📟 AKTUAL VAKANSİYA: EEPROM Proqramçı
+### (Optik Transceiver Modulları üzrə)
 
-Layihə üçün **15 nəfər** təcrübəli **IT Dəstək Mütəxəssisi (Helpdesk)** tələb olunur. Bu, 1 aylıq yüksək templi və maraqlı bir layihədir.
+Telekommunikasiya və data mərkəzləri üçün optik həllərin lokal istehsalı komandasına qoşulun!
 
-### 🛠️ Nə edəcəksən?
-* **Level 1 Dəstək:** İstifadəçilərə gündəlik IT texniki dəstəyin göstərilməsi.
-* **Problemlərin Həlli:** Windows noutbuklarda yaranan nasazlıqların aradan qaldırılması.
-* **Quraşdırılma:** Proqram təminatının yazılması və sazlanması.
-* **Şəbəkə və Avadanlıq:** Printer, Wi-Fi və LAN problemlərinin həlli, yeni cihazların qurulması.
-* **İdarəetmə:** Ticketlərin qeydiyyatı, izlənməsi və mürəkkəb məsələlərin eskalasiyası.
+### 🛠️ Vəzifə Öhdəlikləri:
+* **Proqramlaşdırma:** Optik transceiver modulları üçün EEPROM çiplərinin proqramlaşdırılması.
+* **Məlumat İdarəetməsi:** Texniki parametrlərin (vendor, part number və s.) düzgün daxil edilməsi.
+* **Keyfiyyətə Nəzarət:** Proqramlaşdırma nəticələrinin yoxlanılması və qüsurların aşkar edilməsi.
+* **Avadanlıqla İş:** Proqramlaşdırma cihazlarının gündəlik yoxlanılması və təlimatlara uyğun istifadəsi.
+* **Standartlara Riayət:** SOP, ESD və **cleanroom** qaydalarına ciddi əməl olunması.
 
-### 🎯 Səndən nə gözləyirik?
-* **Təcrübə:** IT Support / Helpdesk sahəsində ən azı **1 il** təcrübə.
-* **Biliklər:** Windows əməliyyat sistemi və baza şəbəkə bilikləri (IP, DHCP və s.).
-* **Dil bacarığı:** Azərbaycan dili (sərbəst), İngilis dili (yaxşı).
-* **Yumşaq bacarıqlar:** Texniki problemləri sadə dildə izah etmə və komanda ilə işləmə qabiliyyəti.
+### 🎯 Tələblər:
+* **Təhsil:** Minimum kollec təhsili (texniki ixtisaslar).
+* **Təcrübə:** Müvafiq sahədə **2–3 il** iş təcrübəsi.
+* **Biliklər:** Optik modulların quruluşu, EEPROM proqramlaşdırma prinsipləri və baza elektronika bilikləri.
+* **Bacarıqlar:** Texniki təlimatları (SOP) tətbiq etmə və yeni avadanlıqları sürətlə öyrənmə qabiliyyəti.
 
-### 📅 Şərtlər və İmkanlar
-* **Müddət:** 1 ay (layihə əsaslı).
-* **İş qrafiki:** Növbəli (06:00 - 13:00 / 13:00 - 20:00).
-* **Əmək haqqı:** 1000 - 1800 AZN (təcrübədən asılı olaraq).
-* **Üstünlük:** Praktik təcrübə qazanmaq üçün əla fürsət.
+### 💎 İmkanlar:
+* 🏥 Könüllü tibbi sığorta.
+* 📈 Karyera inkişafı və beynəlxalq tərəfdaşlarla iş təcrübəsi.
+* 🚀 İrimiqyaslı texnologiya layihələrində iştirak.
 
-### 📩 Müraciət qaydası
-Maraqlanan şəxslər CV-lərini **cv@hrcell.az** ünvanına göndərə bilərlər.
+### 💰 Şərtlər:
+* **Əmək haqqı:** 1500–2000 AZN.
+* **İş qrafiki:** 5 günlük (09:00 – 18:00).
+* **Məkan:** İstehsalat sahəsi.
+
+### 📩 Müraciət üçün:
+CV-nizi **cv@hrcell.az** ünvanına göndərə bilərsiniz.
 
 ---
 *Vakansiyanı uyğun hesab etdiyiniz dostlarınızla paylaşmağınız xahiş olunur!*
